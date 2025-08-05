@@ -1,0 +1,11 @@
+[project]
+name = "chat-with-linkedin-profile"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "gradio>=5.40.0",
+    "pypdf>=5.9.0",
+]
